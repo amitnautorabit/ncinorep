@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0111zGa1100110eFeU-SrcFeatureV1:
+          path: dataset/0111zGa1100110eFeU-SrcFeatureV1
+          prefix: nCinoAPAC
+          standardFeature: true
+          versions:
+            '1.0':
+              modifiedDate: '2020-08-10 04:16:37'
