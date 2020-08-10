@@ -75,23 +75,5 @@
     },
     "recordtypeidmap": {},
     "objectsetnum": 0
-  },
-  {
-    "name": "LLC_BI__Credit_Memo_Screen__c",
-    "lookupobjfieldmap": {},
-    "recordtypeidmap": {},
-    "userlookupfields": [
-      "ownerid"
-    ],
-    "objectsetnum": 0
-  },
-  {
-    "name": "nFORCE__Screen_Segment__c",
-    "lookupobjfieldmap": {},
-    "recordtypeidmap": {},
-    "userlookupfields": [
-      "ownerid"
-    ],
-    "objectsetnum": 0
   }
 ]

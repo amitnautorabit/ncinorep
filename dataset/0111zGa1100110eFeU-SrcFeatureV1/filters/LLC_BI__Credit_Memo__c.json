@@ -1,4 +1,4 @@
 {
   "name": "LLC_BI__Credit_Memo__c",
-  "query": "Select Id From LLC_BI__Credit_Memo__c Where ( IsDeleted \u003d false )"
+  "query": "Select Id From LLC_BI__Credit_Memo__c Where ( IsDeleted \u003d false ) LIMIT 1"
 }
